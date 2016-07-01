@@ -1,0 +1,64 @@
+{
+  "firstLevelList": {
+    "L": [
+      {
+        "S": "firstLevelListString"
+      },
+      {
+        "M": {
+          "numberNestedInMapNestedInList": {
+            "N": "1"
+          }
+        }
+      }
+    ]
+  },
+  "customerEmail": {
+    "S": "customerEmail@example.com"
+  },
+  "resultCode": {
+    "S": "resultCode"
+  },
+  "mid": {
+    "S": "mid123"
+  },
+  "id": {
+    "S": "id123"
+  },
+  "firstLevelMap": {
+    "M": {
+      "nestedList": {
+        "L": [
+          {
+            "S": "firstLevelMap.nestedList.String.Value"
+          },
+          {
+            "N": "1"
+          }
+        ]
+      },
+      "numberField": {
+        "N": "1"
+      },
+      "stringField": {
+        "S": "firstLevelMap.stringField"
+      },
+      "nestedMap": {
+        "M": {
+          "nestedStringField": {
+            "S": "firstLevelMap.nestedMap.nestedStringField"
+          }
+        }
+      }
+    }
+  },
+  "channelId": {
+    "S": "channelId123"
+  },
+  "transactionTimestamp": {
+    "N": "123"
+  },
+  "paymentType": {
+    "S": "CC"
+  }
+}
