@@ -66,4 +66,4 @@ Contributions are always welcome!
 Developed by [microapps] (http://microapps.com/)
 
 ## License
-aws-event-parser is available under the MIT license. See the LICENSE file for more info.
+Eskimo Stripper is available under the MIT license. See the LICENSE file for more info.
