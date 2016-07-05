@@ -9,12 +9,12 @@ Eskimo Stripper strips DynamoDB Stream Items of its schema and returns a plain J
 
 ### Example:
 ```javascript
-var strip = require('dynamodb-stream-item-schema-stripper').strip;
+var strip = require('eskimo-stripper').strip;
 var item = strip(streamItem);
 ```
 
 ```javascript
-import { strip } from 'dynamodb-stream-item-schema-stripper';
+import { strip } from 'eskimo-stripper';
 const item = strip(streamItem);
 ```
 
