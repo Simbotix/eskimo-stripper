@@ -1,5 +1,5 @@
 {
-  "name": "dynamodb-stream-item-schema-stripper",
+  "name": "eskimo-stripper",
   "version": "1.0.0",
   "description": "It strips DynamoDB Stream item of its accompanying schema metadata and returns a plain Javascript object",
   "main": "./lib/index.js",
@@ -8,6 +8,7 @@
     "test": "mocha --require babel-register tests/",
     "lint": "eslint . || true"
   },
+  "repository": "microapps/Eskimo-Stripper",
   "keywords": [
     "aws",
     "dynamodb",
