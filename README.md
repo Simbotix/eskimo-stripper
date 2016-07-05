@@ -1,4 +1,5 @@
 # Eskimo Stripper
+[![Version npm](https://img.shields.io/npm/v/eskimo-stripper.svg)](https://www.npmjs.com/package/eskimo-stripper/)
 [![GitHub stars](https://img.shields.io/github/stars/microapps/Eskimo-Stripper.svg?style=flat-square)](https://github.com/microapps/Eskimo-Stripper/stargazers)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://raw.githubusercontent.com/microapps/Eskimo-Stripper/master/LICENSE)
 [![Eskimo Stripper](https://img.shields.io/badge/Eskimo%20Stripper-hot-red.svg)](https://www.npmjs.com/package/eskimo-stripper)
