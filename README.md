@@ -1,6 +1,6 @@
-# dynamodb-stream-item-schema-stripper
+# Eskimo Stripper
 
-dynamodb-stream-item-schema-stripper is a tiny utility that strips DynamoDB Stream Item of its schema and returns a plain JavaScript object with no effort on your side.
+Eskimo Stripper strips DynamoDB Stream Items of its schema and returns a plain JavaScript object.
 
 ### Example:
 ```javascript
