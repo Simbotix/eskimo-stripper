@@ -61,7 +61,7 @@ const item = strip(streamItem);
 ## Installing
 
 ```
-$ npm install --save dynamodb-stream-item-schema-stripper
+$ npm install --save eskimo-stripper
 ```
 
 ### Contributing
