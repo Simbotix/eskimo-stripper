@@ -1,7 +1,7 @@
 {
   "name": "eskimo-stripper",
   "version": "1.0.0",
-  "description": "It strips DynamoDB Stream item of its accompanying schema metadata and returns a plain Javascript object",
+  "description": "Strips DynamoDB Stream Items of its schema and returns a plain JavaScript object",
   "main": "./lib/index.js",
   "scripts": {
     "gulp": "gulp",
@@ -15,7 +15,7 @@
     "streams",
     "parser"
   ],
-  "author": "Alua Kinzhebayeva",
+  "author": "the microapps team",
   "license": "ISC",
   "devDependencies": {
     "babel": "^6.5.2",
